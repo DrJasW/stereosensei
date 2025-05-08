@@ -1,2 +1,2 @@
-streamlit  
-git+https://github.com/3dmol/3Dmol.js.git#subdirectory=py3Dmol  
+streamlit
+git+https://github.com/3dmol/3Dmol.js.git#subdirectory=py3Dmol

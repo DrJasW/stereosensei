@@ -1,3 +1,1 @@
-streamlit
-rdkit-pypi
-git+https://github.com/3dmol/3Dmol.js.git#subdirectory=py3Dmol
+
